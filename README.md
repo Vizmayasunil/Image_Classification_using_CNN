@@ -9,13 +9,13 @@ In this deep learning project,we classify images of the following sports persons
 5. Lionel Messi
 
 ## Libraries Used
-Numpy
-Matplotlib
-cv2
-Tensorflow
-scikit-learn
-tqdm
-PIL
+1. Numpy
+2. Matplotlib
+3. cv2
+4. Tensorflow
+5. scikit-learn
+6. tqdm
+7. PIL
 
 
 #### Model Chosen
